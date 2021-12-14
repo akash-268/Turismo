@@ -1,3 +1,4 @@
+//all cities files
 module.exports = [
     {
         city: "New York",

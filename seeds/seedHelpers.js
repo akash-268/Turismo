@@ -1,3 +1,4 @@
+//helper seeds
 module.exports.descriptors = [
     'Forest',
     'Ancient',
